@@ -1,0 +1,16 @@
+{
+  "name": "wifi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server",
+    "wifi": "node wifi",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.27.2"
+  }
+}
